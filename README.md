@@ -1,6 +1,3 @@
-# manual-testing-documentation
-Comprehensive documentation for manual testing, covering fundamental concepts, techniques, methodologies, SDLC models, levels of testing, and essential tools. Suitable for beginners and experienced testers.
-
 # Manual Testing Documentation
 
 This repository contains comprehensive documentation for manual testing, designed for both beginners and experienced testers. It covers fundamental concepts, testing techniques, methodologies, SDLC models, levels of testing, and essential tools. The goal is to provide a structured and detailed guide that helps testers understand and implement effective manual testing practices.
